@@ -63,4 +63,3 @@ A partir d'un délit majeur ou plus, un juge est demandé pour vous juger (si il
 | 400        | Vente d'armes illégales           |           15                   |                                            |
 | 200        | Possession d'arme légère          |           10                   |       Retrait de l'arme et du permis       |
 | 300        | Possession d'arme lourde          |           15                   |       Retrait de l'arme                    |
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
