@@ -7,18 +7,18 @@ title: Agent de sécurité 🛡
 Salaire : **$80/h** - Nombre maximum : **4**
 
 ## Description
-Vous êtes un agent de sécurité, votre travail est d'assurer la sécurité de biens, de lieux, ou de personnes.
+En tant qu'agent de sécurité, votre travail est d'assurer la sécurité de biens, lieux, ou de personnes.
 
 ## Règlement
 
 ### Trahison
-Vous n'avez pas le droit de trahir votre employeur de quelque façon que ce soit.
+Vous n'avez pas le droit de trahir votre employeur, de quelque façon que ce soit.
 
 ### Outils
 L'utilisation de vos outils doit se faire de manière logique et roleplay.
 
 ### Illégal
-Vous ne pouvez pas travailler pour des civils faisant de l'illégal
+Vous ne pouvez pas travailler pour des civils ou entreprises aux activités illégalles.
 
 ### Armement
-Toutes les armes sont autorisés (sauf fusil de précision), cependant les armes lourdes restent illégales, attention à la police.
+Vous pouvez utiliser toutes les armes du commerce (à l'exception des fusils de précision). Attention, les armes lourdes restent illégales.

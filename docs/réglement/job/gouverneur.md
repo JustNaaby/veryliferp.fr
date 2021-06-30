@@ -7,7 +7,7 @@ title: Gouverneur 🧑🏻
 Salaire : **$120/h** - Nombre maximum : **1**
 
 ## Description
-A venir prochainement.
+Vous êtes le Gouverneur de Rockford. Vous avez à charge de gérer les politiques de la ville.
 
 ## Règlement
 A venir prochainement.

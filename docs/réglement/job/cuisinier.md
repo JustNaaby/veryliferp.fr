@@ -7,7 +7,7 @@ title: Cuisinier 🍔
 Salaire : **$40/h** - Nombre maximum : **3**
 
 ## Description
-Votre job est de cuisiner afin de revendre votre nourriture aux citoyens.
+Votre job est de cuisiner afin de vendre vos plats aux citoyens.
 
 ## Règlement
 
@@ -15,14 +15,14 @@ Votre job est de cuisiner afin de revendre votre nourriture aux citoyens.
 Vous n’avez pas le droit d’arnaquer un joueur.
 
 ### Cuisinier à domicile
-Vous n'avez pas le droit d'être le Cuisinier personnel d'une personne ou d'un groupe de personnes.
+Vous n'avez pas le droit d'être le cuisinier personnel d'une personne ou d'un groupe de personnes.
 
 ### Point fixe
-Vous devez avoir obligatoirement un lieu de vente (pas de cuisinier nomade...).
+Vous devez obligatoirement avoir un lieu de vente (pas de vendeur ambulant...).
 
 ### AFK
 Vous n’avez pas le droit d’être AFK en tant que cuisinier.
 
 :::tip
-Si vous souhaitez AFK, repassez en Citoyen.
+Si vous souhaitez AFK, repassez en citoyen.
 :::
