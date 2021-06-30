@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 ## FreeKill/Punch/Shoot {#freekill-punch-shoot}
-Il est interdit d'infliger des dégats à une personne ou encore de la tuer sans raison valable.
+Il est interdit d'infliger des dégâts à une personne ou de la tuer sans raison valable.
 
 :::caution Attention
 Dans le cas présent "valable" veut dire que seul le staff sera juge de si oui ou non c'est un [FreeKill](##freekill-punch-shoot).
