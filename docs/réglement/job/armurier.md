@@ -10,7 +10,7 @@ Salaire : **$40/h** - Nombre maximum : **2**
 Vous êtes vendeur d'armes. Vous possédez un stock d'armes légales mais également illégales. Faites-en bon usage.
 
 :::info Information
-Vous pouvez vendre vos armes illégalements de manière discrète, cependant, il y a 1 chance sur 10 que la police soit alertée par un "citoyen" à l'issue de votre vente.
+Vous pouvez vendre vos armes illégalement de manière discrète, cependant, il y a 1 chance sur 10 que la police soit alertée par un "citoyen" à l'issue de votre vente.
 :::
 
 ## Règlement
