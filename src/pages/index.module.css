@@ -1,0 +1,32 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  color: white;
+  background-image: url("https://cdn.discordapp.com/attachments/656038384740990987/855811059818430464/wp2815199.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media screen and (max-width: 966px) {
+
+  .heroBanner {
+    padding: 2rem;
+    color: white;
+    background-image: url("https://cdn.discordapp.com/attachments/656038384740990987/855811059818430464/wp2815199.png");
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
