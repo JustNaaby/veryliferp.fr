@@ -45,6 +45,8 @@ Ce document décrit les peines maximales, elles peuvent être ajustées si néce
 | 275        | Délit de fuite                    |                 6              |      Mise en fourrière du véhicule         |
 | 250        | Refus d'obtempérer                |                 3              |      Mise en fourrière du véhicule         |
 | 175        | Faux appels (canulars)            |                 1              |                                            |
+| 500        | Fabrication de weed               |                 5              |                                            |
+| 500        | Fabrication d'alcool              |                 5              |                                            |
 | 175        | Menaces de mort et/ou menaces graves |                 3           |                                            |
 | 175        | Non présentation à une convocation de police |                 2   |                                            |
 | 15         | Possession de Weed                |                 4              |              Amende * quantité             |
@@ -63,3 +65,14 @@ A partir d'un délit majeur ou plus, un juge est demandé pour vous juger (si il
 | 400        | Vente d'armes illégales           |           15                   |                                            |
 | 200        | Possession d'arme légère          |           10                   |       Retrait de l'arme et du permis       |
 | 300        | Possession d'arme lourde          |           15                   |       Retrait de l'arme                    |
+
+## Crime
+| Amende ($) |            Infraction             |       Peine (en minutes)       |        Note                                |
+| ---------- | -----------                       |        ----                    | ----                                       |
+| 1000       | Assassinat (Meurtre prémédité)    |           30                   |                                            |
+| 500        | Blessure grave involontaire       |           15                   |                                            |
+| 1000       | Braquage de banque centrale       |           30                   |                                            |
+| 350        | Cavale                            |           /                    |                                            |
+| 350        | Evasion/Organisation d’Evasion (Prison ou convoi)  |           30  |                                            |
+| 650        | Kidnapping, Prise d’otage, Séquestration           |           ->  |<2prs= 10  <4prs= 15   <6prs= 20  >6prs= 30 |
+| 650        | Tentative Meurtre                 |           20                   |                                            |
