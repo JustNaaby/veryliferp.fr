@@ -90,3 +90,14 @@ Le permis d'arme n'est pas donné par défaut.
 Vous avez la possibilité de faire une demande auprès de ...
 
 Contrairement à la majorité des serveurs Garry's Mod, votre permis d'armes est définitif sauf si on vous le retire.
+
+## La cocaine
+Produit illégal (sauf loi contraire).
+
+En consommer vous donne de la vie jusqu'à un maximum de 150 (attention, si vous n'êtes pas en bonne santé, celle-ci n'aura aucun effet sur votre vie).
+
+## L'alcool
+Consommation et vente dans un bar légal.
+Vente à un pnj illégal (sauf loi contraire).
+
+En consommer vous donne de l'armure jusqu'à un maximum de 50.
