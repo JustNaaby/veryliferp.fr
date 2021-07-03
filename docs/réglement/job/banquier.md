@@ -41,3 +41,6 @@ Cette règle est extrémement importante ! Si elle n'est pas respectée cela peu
 
 ### Emplacement
 Il est interdit de s'installer ailleurs que dans la banque de Rockford.
+
+### Arnarque
+Il est interdit d'arnaquer vos clients.
