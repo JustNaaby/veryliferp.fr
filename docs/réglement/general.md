@@ -67,7 +67,7 @@ Etant donné qu'on ne "meurt" pas sur le serveur, cette règle est différente d
 :::
 Lorsque vous tombez dans le coma, vous ne vous souvenez plus de ce qu'il s'est passé 5 minutes avant votre coma.
 Lors d'action, vous n'avez pas le droit d'y retourner tant que celle-ci n'est pas entièrement terminée (permet de simuler le temps que vous passez normalement à l'hôpital).
-<font size="5">Un bonus de $117 attend ceux qui feront un ticket avec la phrase "I love tramways!"</font>
+<font size="1">Un bonus de $117 attend ceux qui feront un ticket avec la phrase "I love tramways!"</font>
 
 ## UseBug {#usebug}
 Il est interdit d'exploiter, de partager ou de ne pas signaler un [bug](https://fr.wikipedia.org/wiki/Bug_(informatique)).
