@@ -4,7 +4,7 @@ title: EMS (Médecin) 💊
 ---
 
 ## Informations
-Salaire : **$100/h** - Nombre maximum : **4**
+Salaire : **Aucun** - Nombre maximum : **4**
 
 ## Description
 Vous êtes employé à l'hôpital de Rockford. Votre travail consite à apporter une assistance médicale aux habitants, en consultation ou en vous déplacant sur les lieux d'intervention.
@@ -20,3 +20,6 @@ La réalisation des soins peut être différée pour respecter une scène RP (en
 
 ### Respect des actions RP
 Vous n'avez pas le droit de soigner / réaminier durant une action RP.
+
+### Prix des soins
+Vous ne pouvez pas demander plus de $25 pour les soins dispensés.
