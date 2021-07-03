@@ -26,9 +26,10 @@ La liste des fonctionnalités précise **les fonctionnalités du serveur** bien 
 - Lockpick/Keypad Cracker
 - Braquage de banque
 - Braquage de supérette
-- Fabrication et vente de drogue (vendre à un joueur lui donne plus de vie (max 150). Vendre à un pnj vous donne une somme d'argent et il y a un risque que cela signal votre acte la police d'environ 30%).
+- Fabrication et vente de cocaine (vendre à un joueur lui donne plus de vie (max 150). Vendre à un pnj vous donne une somme d'argent et il y a un risque que cela signal votre acte la police d'environ 30%).
 - Possibilité de revendre un véhicule volé
 - Cocktail molotov
+- Fabrication et vente d'alcool (légal uniquement si c'est vendu pour la consommation, donne du kevlar, 50 max), possibilité de revendre à un pnj qui comme la vente de cocaine risque d'alerter la police.
 ### Légal
 - Métier policier Semi-WL (Rookie accessible à tous mais vous n'avez pas beaucoup de droits cf. règlement)
 - Métier concessionnaire
