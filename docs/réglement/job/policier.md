@@ -24,7 +24,7 @@ Il est interdit d'être corrompu, quelqu'en soit la rémunération.
 Vous devez être irréprochable vis-à-vis des citoyens. Une conduite RP quasiment parfaite est exigée.
 
 ### Comportement
-Un policier suit un code de déontologie strict. Votre comportement doit être digne d'un agent de police. Mal parler ou de façon familière ,e sera en aucun cas toléré !
+Un policier suit un code de déontologie strict. Votre comportement doit être digne d'un agent de police. Mal parler ou de façon familière ne sera en aucun cas toléré !
 
 ### Confidentialité
 Les informations et documents internes à la police sont strictement confidentiels et ne doivent être divulgés sous aucun prétexte.
