@@ -3,9 +3,6 @@ id: presentation
 title: Présentation
 sidebar_position: 1
 ---
-## Ouverture !
-**Le serveur ouvre le 03 juillet 2021 à 15h00**
-
 ## Les métiers 👔
 Seul les métiers qui requirent des permissions particulières ou une régulation en nombre sont présent sur le serveur (ex: Policier, Banquier, Mécanicien, Médecin, ...) 
 :::tip Astuce
