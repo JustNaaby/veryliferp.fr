@@ -13,7 +13,7 @@ Ce document décrit les peines maximales, elles peuvent être ajustées si néce
 ## Contravention
 | Amende ($) |            Infraction             |        Note                                |
 | ---------- | -----------                       | ----                                       |
-| 135        | Conduite dangereuse               |                                            |
+| 135        | Conduite dangereuse               | 3 pts                                      |
 | 135        | Conduite en contre-sens           | 1 pt                                       |
 | 75         | Excès de vitesse 11-20 km/h       | 1 pt                                       |
 | 100        | Excès de vitesse 21-30 km/h       | 2 pts                                      |
