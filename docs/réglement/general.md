@@ -119,3 +119,14 @@ C'est pourquoi vous avez l'obligation d'ouvrir aux ouvriers qui souhaitent rentr
 
 ## Toiture
 Il est interdit de monter sur un toit.
+
+## Braquages / Prise d'otage
+Il est interdit de forcer un joueur à drop des items venant du menu F4
+
+Il est interdit de forcer un joueur à retirer de l'argent dans son ATM
+
+Il est interdit de braquer/racketter des personnes au spawn
+
+Il est interdit de braquer la même personne dans un délai de 30 minutes
+
+Il est interdit de prendre le négociateur en otage sauf si celui décide de faire un échange
