@@ -116,3 +116,6 @@ Le staff se réserve le droit de juger vos constructions pour décider si elles 
 Les ouvriers ont des missions de réparation dans vos logements.
 
 C'est pourquoi vous avez l'obligation d'ouvrir aux ouvriers qui souhaitent rentrer chez vous.
+
+## Toiture
+Il est interdit de monter sur un toit.

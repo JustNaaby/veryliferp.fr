@@ -57,6 +57,10 @@ Sirène manuelle : `Maintenir T`
 
 ### Divers
 
+Contacter un staff : `@ ` suivi de votre message (si aucun staff ne répond en jeu, vous pouvez également demander de l'aide sur le Discord)
+
+Changer la caméra (1ère personne ou 3ème personne, en dehors d'un véhicule) : `F1`
+
 Fouiller **le sac** d'une personne (si la personne a une arme équipée, vous pouvez l'a voir sur son corps) : `E (et laisser le curseur sur lui)`
 
 Afficher le SteamID d'une personne : `E (attention à ne pas laisser le curseur sur lui ou il sera notifié que vous l'avez fouillé)` (vous pouvez également voir le début du SteamID d'une personne en haut à droite sur l'interface de "UTime")
