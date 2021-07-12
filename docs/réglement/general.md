@@ -116,3 +116,14 @@ Le staff se réserve le droit de juger vos constructions pour décider si elles 
 Les ouvriers ont des missions de réparation dans vos logements.
 
 C'est pourquoi vous avez l'obligation d'ouvrir aux ouvriers qui souhaitent rentrer chez vous.
+
+## Toiture
+Il est interdit de monter sur un toit (sauf s'il y a un accès prévu par la map).
+
+## MassRP
+Il est obligatoire de prendre en compte l'environnement où l'on souhaite effectuer des actions.
+
+:::tip Exemples
+Il est interdit d'attaquer le comico.
+Il est interdit de braquer au centre-ville au milieu de la rue.
+:::
