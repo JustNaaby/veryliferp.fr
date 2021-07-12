@@ -101,11 +101,7 @@ module.exports = {
             },
             {
               label: 'Se connecter au serveur',
-<<<<<<< HEAD
               href: 'steam://connect/connect.veryliferp.fr',
-=======
-              href: 'steam://connect/188.165.61.76:27015',
->>>>>>> 859d6e74c754416c2c9dd659569b36b466e3ede6
             },
           ],
         },
