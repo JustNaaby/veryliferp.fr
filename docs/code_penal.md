@@ -13,7 +13,7 @@ Ce document décrit les peines maximales, elles peuvent être ajustées si néce
 ## Contravention
 | Amende ($) |            Infraction             |        Note                                |
 | ---------- | -----------                       | ----                                       |
-| 135        | Conduite dangereuse               |                                            |
+| 135        | Conduite dangereuse               | 3 pts                                      |
 | 135        | Conduite en contre-sens           | 1 pt                                       |
 | 75         | Excès de vitesse 11-20 km/h       | 1 pt                                       |
 | 100        | Excès de vitesse 21-30 km/h       | 2 pts                                      |
@@ -27,7 +27,7 @@ Ce document décrit les peines maximales, elles peuvent être ajustées si néce
 | 135        | Mendicité en lieu public          |                                            |
 | 75         | Non présentation des papiers (ID, Permis) |                                    |
 | 100        | Outrage à employé d'état          | (Gouvernement/EMS/Police) et Barreau (Avocat) |
-| 150        | Violation de propriété privée     |                                            |
+| 85         | Violation de propriété privée     |                                            |
 | 85         | Entrave aux Services Publics      |                                            |
 
 ## Délit mineur
@@ -49,7 +49,9 @@ Ce document décrit les peines maximales, elles peuvent être ajustées si néce
 | 500        | Fabrication d'alcool              |                 5              |                                            |
 | 175        | Menaces de mort et/ou menaces graves |                 3           |                                            |
 | 175        | Non présentation à une convocation de police |                 2   |                                            |
+| 300        | Piratage d'ATM                    |                 4              |                                            |
 | 15         | Possession de Weed                |                 4              |              Amende * quantité             |
+| 100        | Possession d'objet illicite       |                 2              |              Amende et prison / quantité   |
 | 300        | Recel de véhicule volé            |               5                |                                            |
 | 350        | Tentative de corruption           |               3                |                                            |
 | 200        | Vol de voiture                    |               3                |                                            |
